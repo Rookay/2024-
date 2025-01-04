@@ -1,9 +1,3 @@
-# -*- coding: UTF-8 -*-
-# Project ：demo 
-# File    ：simple_LSTM.py
-# IDE     ：PyCharm 
-# Author  ：刘景涛
-# Date    ：2024/12/16 16:29
 from __future__ import print_function
 import argparse
 import torch
